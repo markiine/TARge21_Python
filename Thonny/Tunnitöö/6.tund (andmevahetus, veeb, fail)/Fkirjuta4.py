@@ -1,0 +1,1 @@
+# tahvlist kodeerimine jne

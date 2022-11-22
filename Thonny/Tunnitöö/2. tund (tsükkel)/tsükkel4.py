@@ -1,0 +1,18 @@
+i = 0
+while i < 5:
+    i = i + 1
+print(i)
+
+print()
+
+i = 0
+while i <= 5:
+    i = i + 1
+print(i)
+
+print()
+
+i = 0
+while i == 5:
+    i = i + 1
+print(i)

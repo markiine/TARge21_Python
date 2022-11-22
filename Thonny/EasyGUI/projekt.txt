@@ -1,0 +1,6 @@
+rühmaliikmed: Anni Maasik, Eve Köse, Dagne Markiine Kotkas
+
+Mäng lasteaia ja esimese klassi lastele geomeetriliste kujundite õppimiseks.
+Programm kuvab ekraanile lihtsamad geomeetrilised kujundid, üks haaval ja annab mängijale 4 varianti, mille vahel valida, õige vastuse puhul kiidab, vale vastuse puhul, teavitab valest vastusest.
+Programm küsib ka kasutajanime ja arvutab õigesti vastatud kordade skoori, mille mängu lõppedes ekraanile kuvab.
+kujundid: ring, ruut, ristkülik, kolmnurk
